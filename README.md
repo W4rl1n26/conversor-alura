@@ -2,20 +2,20 @@
 
 ## Tecnologías Utilizadas
 
-- ### Java 1.8
-- ### JavaSwing
+- Java 1.8
+- JavaSwing
 
 ## Pagínas de los recursos Utilizados
 
-- ### [Icomoon](https://icomoon.io) 
-- ### [Storyset](https://storyset.com)
-- ### [Flaticon](www.flaticon.es)
+-  [Icomoon](https://icomoon.io) 
+-  [Storyset](https://storyset.com)
+-  [Flaticon](www.flaticon.es)
 
 ## Herramientas Utilizadas
 
-- ### Apache NetBeans
-- ### Inkscape
-- ### Krita
+- Apache NetBeans
+-  Inkscape
+-  Krita
 
 ---
 
