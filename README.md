@@ -5,26 +5,26 @@
 - ### Java 1.8
 - ### JavaSwing
 
-## Paginas de los recursos Utilizados
+## Pagínas de los recursos Utilizados
 
 - ### [Icomoon](https://icomoon.io) 
-- ### [Conjunto de cuentos](https://storyset.com)
+- ### [Storyset](https://storyset.com)
 - ### [Flaticon](www.flaticon.es)
 
 ## Herramientas Utilizadas
 
 - ### Apache NetBeans
-- ### Cuchara de tinta
+- ### Inkscape
 - ### Krita
 
 ---
 
 # Ventana de bienvenida
-[img!](https://github.com/W4rl1n26/imagenes-repo/blob/main/bienvenida.png?crudo = verdaero)
+![img](https://github.com/W4rl1n26/imagenes-repo/blob/main/bienvenida.png?raw=true)
 
 # Ventana conversor de divisas
 ## Divisas disponibles
-<mesa>
+<table>
 	<tr>
 	<td><img src="https://cdn-icons-png.flaticon.com/128/206/206626.png"></td>
 	<td><img src="https://cdn-icons-png.flaticon.com/128/206/206593.png"></td>
@@ -35,29 +35,29 @@
 	<td><img src="https://cdn-icons-png.flaticon.com/128/206/206789.png"></td>
 	<td><img src="https://cdn-icons-png.flaticon.com/128/206/206758.png"></td>
 	</tr>
-</mesa>
+</table>
 
-[img! ](https://github.com/W4rl1n26/imagenes-repo/blob/main/divisas.png?crudo = verdaero)
+![img](https://github.com/W4rl1n26/imagenes-repo/blob/main/divisas.png?raw=true)
 
-[img! ](https://github.com/W4rl1n26/imagenes-repo/blob/main/conversor_divisas.png?crudo = verdaero)
+![img](https://github.com/W4rl1n26/imagenes-repo/blob/main/conversor_divisas.png?raw=true)
 
-## Ventana converso de temperaturas
+## Ventana conversor de temperaturas
 
-#### Escalas :
-<mesa>
+#### Escalas:
+<table>
 	<tr>
 		<th>Grado Frahrenheit</th>
 		<th>Grado Celsius</th>
-		<th>Grado Kelvin</th>
+		<th>Grado kelvin</th>
 	</tr>
 	<tr>
-		<td>° F</td>
-		<td>° C</td>
+		<td>°F</td>
+		<td>°C</td>
 		<td>K</td>
 	</tr>
-<mesa>
+<table>
 
-[!](https://github.com/W4rl1n26/imagenes-repo/blob/main/temperatura.png?crudo = verdaero)
+![](https://github.com/W4rl1n26/imagenes-repo/blob/main/temperatura.png?raw=true)
 
-[!](https://github.com/W4rl1n26/imagenes-repo/blob/main/conversor_temp.png?crudo = verdaero)
+![](https://github.com/W4rl1n26/imagenes-repo/blob/main/conversor_temp.png?raw=true)
 
