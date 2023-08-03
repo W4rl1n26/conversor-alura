@@ -3,11 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/darkhat/NetBeansProjects/Conversor/src/interfaz/DialogoCierre.java</file>
+            <file>file:/home/darkhat/NetBeansProjects/Conversor/src/es/alura/com/monedas/CalculoMetodos.java</file>
             <file>file:/home/darkhat/NetBeansProjects/Conversor/src/interfaz/ConversorInterfaz.java</file>
+            <file>file:/home/darkhat/NetBeansProjects/Conversor/src/es/alura/com/monedas/Monedas.java</file>
             <file>file:/home/darkhat/NetBeansProjects/Conversor/src/conversor/Conversor.java</file>
             <file>file:/home/darkhat/NetBeansProjects/Conversor/src/interfaz/InicioBienvenida.java</file>
-            <file>file:/home/darkhat/NetBeansProjects/Conversor/src/interfaz/FondoPanel.java</file>
         </group>
     </open-files>
 </project-private>
