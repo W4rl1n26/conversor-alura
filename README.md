@@ -7,20 +7,21 @@
 
 ## Pagínas de los recursos Utilizados
 
--  [Icomoon](https://icomoon.io) 
--  [Storyset](https://storyset.com)
--  [Flaticon](www.flaticon.es)
+- [Icomoon](https://icomoon.io) 
+- [Storyset](https://storyset.com)
+- [Flaticon](www.flaticon.es)
 
 ## Herramientas Utilizadas
 
 - Apache NetBeans
--  Inkscape
--  Krita
+- Inkscape
+- Krita
 
 ---
 
 # Ventana de bienvenida
-![img](https://github.com/W4rl1n26/imagenes-repo/blob/main/bienvenida.png?raw=true)
+
+![img](https://github.com/W4rl1n26/imagenes-repo/blob/main/imagenes-Conversor-alura/bienvenida.png?raw=true)
 
 # Ventana conversor de divisas
 ## Divisas disponibles
@@ -37,9 +38,9 @@
 	</tr>
 </table>
 
-![img](https://github.com/W4rl1n26/imagenes-repo/blob/main/divisas.png?raw=true)
+![img](https://github.com/W4rl1n26/imagenes-repo/blob/main/imagenes-Conversor-alura/divisas.png?raw=true)
 
-![img](https://github.com/W4rl1n26/imagenes-repo/blob/main/conversor_divisas.png?raw=true)
+![img](https://github.com/W4rl1n26/imagenes-repo/blob/main/imagenes-Conversor-alura/conversor_divisas.png?raw=true)
 
 ## Ventana conversor de temperaturas
 
@@ -57,7 +58,8 @@
 	</tr>
 <table>
 
-![](https://github.com/W4rl1n26/imagenes-repo/blob/main/temperatura.png?raw=true)
+![](https://github.com/W4rl1n26/imagenes-repo/blob/main/imagenes-Conversor-alura/temperatura.png?raw=true)
 
-![](https://github.com/W4rl1n26/imagenes-repo/blob/main/conversor_temp.png?raw=true)
+![](https://github.com/W4rl1n26/imagenes-repo/blob/main/imagenes-Conversor-alura/conversor_temp.png?raw=true)
+
 
