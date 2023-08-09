@@ -13,9 +13,9 @@
 
 ## Herramientas Utilizadas
 
-- Apache NetBeans
-- Inkscape
-- Krita
+- [Apache NetBeans 18](https://netbeans.apache.org)
+- [Inkscape](https://inkscape.org)
+- [Krita](https://krita.org)
 
 ---
 
